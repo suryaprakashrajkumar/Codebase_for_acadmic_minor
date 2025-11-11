@@ -16,7 +16,7 @@ X0=[0 0 0]';% Initial condition of Qbot
 
 eta = 1.5;         % Constant value for eta
 alpha = 10;        % Constant value for alpha
-
+ 
 %Velocity trajectory
 xdr0=eta*(1/alpha); %trajectory velocity along x axis
 ydr0=eta*(1/(2*alpha));%trajectory velocity along y axis
